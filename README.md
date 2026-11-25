@@ -130,8 +130,12 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API    | Description            | Link                                    |
 | ------ | ---------------------- | --------------------------------------- |
-| TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
+### Itinerary
 
+| API | Description | Link |
+| --- | --- | --- |
+| Plux | Free, offline-first open-source (AGPL-3.0) travel planner and itinerary organizer PWA | [Go!](https://github.com/Nibecar-Cofeben/Plux) |
+| TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
 ### Tours
 
 | API          | Description     | Link                                                           |
